@@ -1,4 +1,9 @@
 test doc file
+<<<<<<< HEAD
 
 
 line 1
+=======
+line 2
+line 3
+>>>>>>> f4e54dce0ca5e4019d80664740d4fa818bb934df
